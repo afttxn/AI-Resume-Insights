@@ -107,7 +107,7 @@ To run this project, perform the following tasks 😨
 
 Download the code file manually or via git
 ```bash
-git clone  
+git clone  https://github.com/afttxn/AI-Resume-Insights.git
 ```
 
 Create a virtual environment and activate it **(recommended)**
@@ -243,4 +243,4 @@ Feel Free to <a href="mailto:dnoobnerd@gmail.com?subject=I%20have%20an%20issue%2
 
 ![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/admin/7-pielocation.png?raw=true)
 
-### Built with 🤍 AI RESUME ANALYZER by <a href="https://dnoobnerd.netlify.app/">Deepak Padhi</a>
+ 
